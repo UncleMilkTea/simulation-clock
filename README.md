@@ -1,7 +1,7 @@
 # simulation-clock
 一款漂亮的美女模拟时钟Demo
 
-# AFBrushBoardDemo
+# HYKsimulationclockDemo
 
 - 根据控件的layer属性修改锚点,通过锚点旋转实现表针效果
 - 通过NSRunLoop来刷新表针的转动和美女手中的数字的更新
